@@ -16,7 +16,7 @@ To make use of this repo, it is a simple process. Follow the steps below and you
 
 
 # NAME OF PARTICIPANTS
-- Christian [https://www.facebook.com/ccemenike](Facebook)
+- Christian [https://www.facebook.com/ccemenike]
 
 * # RESOURCES
 These are some of the resources we recmmend if you want to be part of this hands on exercise.
